@@ -15,8 +15,9 @@ body{
     flex-wrap: wrap;
     align-items: center;
     align-content: center;
-    width: 320px;
-    height: 320px;
+    width: 322px;
+    height: 322px;
+    border: 1px solid red;
 }
 
 .square{
