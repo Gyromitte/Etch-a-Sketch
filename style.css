@@ -18,10 +18,10 @@ body{
     width: 322px;
     height: 322px;
     border: 1px solid red;
+
 }
 
 .square{
-    padding: 9px;
-    border: 1px solid rgb(185, 185, 185);
+    padding: 10px;
     background: white;
 }
